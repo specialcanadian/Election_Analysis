@@ -1,5 +1,4 @@
 # Election Analysis
-
 ## Overview of Project/Purpose
 
 ### Description 
