@@ -23,5 +23,9 @@ This code was written to count and analyze an election. In addition to the winni
 * Winner: Diana DeGette
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
-## Results
+## Election Audit Summary
+
+The code could be modified for the Presidential Election. Instead of looking at counties, it could look at what state the vote came from.
+
+It could also be used for city elections, changing the counties to zip codes.
 
